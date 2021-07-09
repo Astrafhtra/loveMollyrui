@@ -1,4 +1,4 @@
-## csthaha-blog
+## mollyLove-blog
 > 彻夜深思熟虑，但依然不知道答案
 <div style="display: flex; align-items: center;"> 
     <img width="120" height="120" style="border-radius: 50%" src="https://img95.699pic.com/photo/50055/5642.jpg_wh300.jpg"></img> 
@@ -22,7 +22,7 @@
 >   - git commit -m ""
 >   - git remote add origin 远程仓库地址
 >   - git push -u origin main
-> 3. setting -> github Pages 设置成功之后会生成链接 [csthaha-blog](https://csthaha.github.io/csthaha-blog/#/)
+> 3. setting -> github Pages 设置成功之后会生成链接 [mollyLove-blog](https://astrafhtra.github.io/)
 
 
 <!-- ## Frontend
