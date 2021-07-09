@@ -1,9 +1,11 @@
 section.cover h1, span, p a {
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    /* font-family: Brush Script MT, Brush Script Std, cursive; */
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
     color: #25798a;
 }
 
 section.cover span {
-    font-family: 'Lobster', cursive;
+    /* font-family: 'Lobster', cursive; */
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
     font-size: 16px;
 }

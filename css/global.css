@@ -1,6 +1,7 @@
 .app-nav,.no-badge {
     background-color: #ea6f5a;
-    font-family: 'Lobster', cursive;
+    /* font-family: 'Lobster', cursive; */
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
     color: #000;
     position: fixed;
     margin-top: 0;
@@ -43,7 +44,8 @@
   }
   
   .sidebar > h1 a {
-    font-family: 'Lobster', cursive;
+    /* font-family: 'Lobster', cursive; */
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
     color: #25798a;
   }
 
@@ -56,5 +58,6 @@
   }
 
   .sidebar ul li a {
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    /* font-family: Brush Script MT, Brush Script Std, cursive; */
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
   }
