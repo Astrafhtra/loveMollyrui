@@ -1,0 +1,60 @@
+.app-nav,.no-badge {
+    background-color: #ea6f5a;
+    font-family: 'Lobster', cursive;
+    color: #000;
+    position: fixed;
+    margin-top: 0;
+    right: 1.5rem;
+  }
+  /* .app-nav ul {
+    width: 320px;
+  } */
+  .app-nav ul li a {
+    color: #000;
+  }
+  h4 {
+    text-align: center;
+    margin-top: 30px;
+  }
+  h4 a span{
+    color: red !important;
+  }
+
+  .sidebar-nav ul li a:hover {
+    text-decoration: none;
+    font-size: 16px;
+  }
+  .markdown-section tr:nth-child(2n) {
+    background-color: #666666
+  }
+  .markdown-section tr a {
+    color: #9999FF;
+    text-decoration: none;
+  }
+  .markdown-section div span {
+    color: #ea6f5a !important;
+  }
+  .markdown-section tr td:nth-child(n) {
+    text-align: center;
+  }
+  .markdown-section tr td:nth-child(2n) {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .sidebar > h1 a {
+    font-family: 'Lobster', cursive;
+    color: #25798a;
+  }
+
+  .app-nav li ul {
+    text-align: center;
+    width: 100px;
+  }
+  h2 a span {
+    color: red !important ;
+  }
+
+  .sidebar ul li a {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+  }
