@@ -10,4 +10,4 @@
     * [番外知识点](sort/knowledage.md)
 * Life
     * [金句](dariyLove/mollyLove.md)
-    <!-- * [mollyRui](dariyLove/log) -->
+    * [mollyRui](_coverPage.md)
