@@ -16,6 +16,7 @@
 [GitHub](https://github.com/astrafhrat)   
 
 [2021/07/13](dariyLove/log/20210713.md) 
+[2021/07/14](dariyLove/log/20210714.md) 
 
 [Get Started](README)
 <!-- ![color](#00FFCC) -->
