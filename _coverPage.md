@@ -19,6 +19,8 @@
 
 [2021/07/14](dariyLove/log/20210714.md) 
 
+[2021/07/14](dariyLove/log/20210715.md) 
+
 [Get Started](README)
 <!-- ![color](#00FFCC) -->
 <!-- ![color](#669999) -->
