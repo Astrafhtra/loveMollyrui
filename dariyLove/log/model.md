@@ -4,8 +4,8 @@
     
   </p>
 
-  <img src="/loveMollyrui/dariyLove/log/../mollyImage/mollyrE.jpg" style="width: 200px"/>
+  <img src="/loveMollyrui/dariyLove/log/../mollyImage/mollyE.jpg" style="width: 200px"/>
 
   <br/>
   
-  <img src="/loveMollyrui/dariyLove/log/../mollyImage/mollyDariy1.jpeg" style="width: 200px"/>
+  <img src="/loveMollyrui/dariyLove/log/../mollyImage/mollyDariy1.jpg" style="width: 200px"/>
