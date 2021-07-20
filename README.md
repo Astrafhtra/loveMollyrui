@@ -24,6 +24,20 @@
 >   - git push -u origin main
 > 3. setting -> github Pages 设置成功之后会生成链接 [mollyLove-blog](https://astrafhtra.github.io/)
 
+> Vue项目搭建
+>1. 查看npm镜像: npm config get registry
+>2. 切换淘宝镜像: npm config set registry (https://registry.npm.taobao.org/ || https://art.haizhi.com/artifactory/api/npm/npm/)
+>3. npm install -g vue-cli
+>4. vue -V(查看vue版本号码)
+>5. vue init webpack projectName(初始化项目)
+>6. npm intall (安装依赖)
+>7. npm run dev(项目运行)
+>8. "export 'default' (imported as 'echarts') was not found in 'echarts'(vue版本2.9.6还不支持echarts5.0以上)
+>9. npm install echarts@4.9.0(安装可行版本)
+>
+>
+>
+
 
 <!-- ## Frontend
 ---
