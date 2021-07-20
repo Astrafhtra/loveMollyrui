@@ -25,9 +25,9 @@
 
 [2021/07/17](dariyLove/log/20210717.md) 
 
-[2021/07/19](dariyLove/log/20210717.md) 
+[2021/07/19](dariyLove/log/20210719.md) 
 
-[2021/07/20](dariyLove/log/20210717.md) 
+[2021/07/20](dariyLove/log/20210720.md) 
 
 [Get Started](README)
 <!-- ![color](#00FFCC) -->
