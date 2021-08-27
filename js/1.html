@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="rich">
+        <div>
+            <div>
+                <div>
+
+                </div>
+            </div>
+        </div>
+        <ul>
+            <li></li>
+            <li></li>
+        </ul>
+        <li></li>
+        <a href=""></a>
+        <a href=""></a>
+        <div></div>
+        <a href=""></a>
+        <h3>
+            <h3></h3>
+        </h3>
+    </div>
+
+    <script>
+        const domObj = {
+            "DIV": 0,
+            "UL": 0,
+            "LI": 0,
+            "A": 0,
+            "H3": 0,
+            "INPUT": 0,
+            "BUTTON": 0 
+        }
+        let dom = document.getElementById("rich")
+        let tags =[...dom.children]
+        // Object.keys(domObj).map(item => {
+        //     console.log(item.toLowerCase(), tags[1].children);
+        //     let num = tags.filter(tag => tag.localName === item.toLowerCase()).length
+        //     domObj[item] += num
+        // })
+
+        function getDomNum(tags) {
+            tags.forEach(tag => {
+                if([...tag.children].length === 0) {
+                    domObj[tag.localName.toUpperCase()] += 1
+                } else {
+                    domObj[tag.localName.toUpperCase()] += 1
+                    // console.log(tag.localName,[...tag.children]);
+                    getDomNum([...tag.children])
+                }
+            });
+        }
+        getDomNum(tags)
+        console.log(domObj);
+    </script>
+</body>
+</html>

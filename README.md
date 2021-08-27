@@ -23,6 +23,7 @@
 >   - git remote add origin 远程仓库地址
 >   - git push -u origin main
 > 3. setting -> github Pages 设置成功之后会生成链接 [mollyLove-blog](https://astrafhtra.github.io/)
+> - git branch -r --contains 8c9966c7df164cee7a534ac040d89a408d187436 查看哪个分支包含这个commitId
 
 > Vue项目搭建
 >1. 查看npm镜像: npm config get registry
@@ -37,6 +38,18 @@
 >
 >
 >
+
+>修改镜像源
+> npm config get regigistry
+> npm config set registry (https://registry.npm.taobao.org || https://art.haizhi.com/artifactory/api/npm/npm/))
+
+> node版本管理(n)
+> sudo n stabe(管理员权限安装)
+> npm install -g n
+> npm stable (升级到最新稳定版本)
+> npm latest (最新版本)
+> n v7.10.0 (切换到定制版本)
+> n 7.10.0
 
 
 <!-- ## Frontend
