@@ -24,6 +24,8 @@
 >   - git push -u origin main
 > 3. setting -> github Pages 设置成功之后会生成链接 [mollyLove-blog](https://astrafhtra.github.io/)
 > - git branch -r --contains 8c9966c7df164cee7a534ac040d89a408d187436 查看哪个分支包含这个commitId
+> - 删除本地分支 git branch -D branch_name
+> - 删除远程分支 git push origin --delete branch_name
 
 > Vue项目搭建
 >1. 查看npm镜像: npm config get registry
